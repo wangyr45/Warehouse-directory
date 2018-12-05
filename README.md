@@ -2,7 +2,7 @@
 算法、各类项目仓库目录等等。
 
 <div align="center">
-![banner](https://github.com/wangyr45/Warehouse-directory/blob/master/70.jpg)
+<img src="https://github.com/wangyr45/Warehouse-directory/blob/master/70.jpg">
 </div>
 
 | 仓库导航页 |
