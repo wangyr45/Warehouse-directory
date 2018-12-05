@@ -3,8 +3,9 @@
 
 <div align="center">
 <img src="https://github.com/wangyr45/Warehouse-directory/blob/master/70.png">
+</div>
 
-
+<div align="center">
 | 仓库导航页 |
 | :------: |
 | ★★★★★[算法与数据结构](https://github.com/wangyr45/Algorithm-and-data-structure) |
