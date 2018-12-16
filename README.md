@@ -14,3 +14,5 @@
 | ★★★★★[软件工程基础](https://github.com/wxyyxc1992/SoftwareEngineering-Series) |   |
 | [English-level-up-tips-for-Chinese](https://byoungd.gitbook.io/english-level-up-tips/) |  |
 | [《互联网面试笔记》收集和分析互联网常见面试题，并将这些面试知识整理成文方便大家查阅。](https://github.com/zhengjianglong915/note-of-interview) |  | [golang](https://github.com/xmge/gonote) |  |
+| [思维导图记录前端学习中的知识要点](https://github.com/Joe19970619/Learning-materials) |  |
+| [网络安全基础知识思维导图、大学笔记](https://github.com/MiYogurt/network-security-mind-map) |  |
