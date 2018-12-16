@@ -12,4 +12,5 @@
 | ★★★★★[锁汇总](https://github.com/aalansehaiyang/Lock-Learning) |   |
 | ★★★★★[【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。](https://github.com/Snailclimb/JavaGuide) |   |
 | ★★★★★[软件工程基础](https://github.com/wxyyxc1992/SoftwareEngineering-Series) |   |
-| [English-level-up-tips-for-Chinese](https://byoungd.gitbook.io/english-level-up-tips/) |
+| [English-level-up-tips-for-Chinese](https://byoungd.gitbook.io/english-level-up-tips/) |  |
+| [《互联网面试笔记》收集和分析互联网常见面试题，并将这些面试知识整理成文方便大家查阅。](https://github.com/zhengjianglong915/note-of-interview) |  |
