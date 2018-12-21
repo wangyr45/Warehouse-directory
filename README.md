@@ -17,3 +17,4 @@
 | [《互联网面试笔记》收集和分析互联网常见面试题，并将这些面试知识整理成文方便大家查阅。](https://github.com/zhengjianglong915/note-of-interview) |  | [golang](https://github.com/xmge/gonote) |  |
 | [思维导图记录前端学习中的知识要点](https://github.com/Joe19970619/Learning-materials) |  |
 | [网络安全基础知识思维导图、大学笔记](https://github.com/MiYogurt/network-security-mind-map) |  |
+| [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java) |   |
